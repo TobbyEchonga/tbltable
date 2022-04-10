@@ -1,0 +1,57 @@
+
+    {
+        "name": "season1",
+        "matchday": 1,
+        "fixtures":[
+            {
+                "date": "12/03/2022",
+                "gameno":1,
+                "team1":"Peakyblinders14",
+                "team2":"Abacuba12",
+                "ft":[
+                    4,
+                    0
+                ]
+            },
+            {
+                "date": "12/03/2022",
+                "gameno":2,
+                "team1":"BIFA16",
+                "team2":"Galaticos15",
+                "ft":[
+                    2, 
+                    4
+                ]
+            },
+            {
+                "date": "12/03/2022",
+                "gameno":3,
+                "team1":"Abacubas12",
+                "team2":"Galaticos15",
+                "ft":[
+                    2,
+                    0
+                ]
+            },
+            {
+                "date": "12/03/2022",
+                "gameno":4,
+                "team1":"PeakyBlinders14",
+                "team2":"Galaticos15",
+                "ft":[
+                    2,
+                    0
+                ]
+            },
+            {
+                "date": "12/03/2022",
+                "gameno":5,
+                "team1":"Abacuba12",
+                "team2":"Galaticos15",
+                "ft":[
+                    2,
+                    2
+                ]
+            }
+        ]
+    }
